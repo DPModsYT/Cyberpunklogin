@@ -1,0 +1,22 @@
+{
+  "licenses": [
+    {
+      "key": "ABCD-EFGH-IJKL-MNOP",
+      "expiry_date": "2024-12-31",
+      "max_devices": 5,
+      "current_devices": 1
+    },
+    {
+      "key": "123456",
+      "expiry_date": "2025-12-31",
+      "max_devices": 5,
+      "current_devices": 1
+    },
+    {
+      "key": "WXYZ-1234-5678-90AB", 
+      "expiry_date": "2024-06-30",
+      "max_devices": 10,
+      "current_devices": 3
+    }
+  ]
+}
